@@ -26,8 +26,7 @@ function CPlayer::GetGravity() {
 
 /* ---- Register CGravity() class, here is where our code starts working ---- */
 
-class CGravity
-{
+class CGravity {
 	value = 0;
 	def_value = 0;
 	g_value = 0.008;
